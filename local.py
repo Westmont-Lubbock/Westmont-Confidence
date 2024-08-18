@@ -41,9 +41,9 @@ class ControlPanelApp:
 
         # Button labels stored in a dictionary
         self.default_button_labels = {
-            1: "Show Info 1",
-            2: "Show Info 2",
-            3: "Show Info 3",
+            1: "Turn On Mic",
+            2: "Speak into Mic",
+            3: "Speak Louder",
             4: "Show Info 4",
             5: "Show Info 5"
         }
